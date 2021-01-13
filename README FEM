@@ -1,0 +1,6 @@
+This program is for analysis using Finite Element Method 
+
+This program will compute the transient temperatures at time t for a plate
+with one edge held at constant temperature and the other 3 exposed to the ambient environment. 
+
+File can be run using MATLAB 
